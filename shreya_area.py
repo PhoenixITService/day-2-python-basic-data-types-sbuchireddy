@@ -1,4 +1,4 @@
 l=12.35 
 w=14.67 
 area=l*w 
-print("Area:",int(area))
+print("Area: ",int(area))
